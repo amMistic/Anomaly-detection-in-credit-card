@@ -2,8 +2,6 @@
 
 # Anomaly Detection in Credit Card Fraud Transactions
 
-This project implements an anomaly detection system to identify fraudulent transactions in a highly imbalanced dataset. The system is designed to flag suspicious transactions based on their deviation from the expected behavior of legitimate transactions.
-
 ---
 
 ## Table of Contents
